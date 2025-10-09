@@ -1,0 +1,11 @@
+OrderID,OrderDate,CustomerID,CustomerName,Country,Product,Category,Quantity,UnitPrice
+1001,2024-01-03,C001,Ali Yılmaz,Turkey,Laptop,Electronics,1,15000
+1002,2024-01-05,C002,Ayşe Demir,Turkey,Mouse,Electronics,2,300
+1003,2024-01-06,C003,John Smith,USA,Book,Books,3,120
+1004,2024-01-07,C004,Sarah Lee,UK,Headphones,Electronics,1,800
+1005,2024-01-08,C001,Ali Yılmaz,Turkey,Book,Books,1,120
+1006,2024-01-10,C005,Mehmet Kaya,Germany,Monitor,Electronics,1,2000
+1007,2024-01-11,C006,Elif Çetin,Turkey,Keyboard,Electronics,1,500
+1008,2024-01-12,C002,Ayşe Demir,Turkey,Laptop,Electronics,1,15000
+1009,2024-01-13,C007,Emily Davis,USA,Tablet,Electronics,1,4000
+1010,2024-01-14,C001,Ali Yılmaz,Turkey,Mouse,Electronics,1,300
